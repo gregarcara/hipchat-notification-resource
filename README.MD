@@ -63,4 +63,4 @@ resources:
       params:
         PR-TITLE: file://output-directory/pr-title
 ```
-test
+test 1
